@@ -51,7 +51,7 @@ fun LemonadeApp() {
         modifier = Modifier.fillMaxSize().background(Color(0xFFFFF59D)),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
-    ) {
+    ) { //hola
         Text(
             text = stringResource(id = textRes),
             fontSize = 18.sp,
